@@ -1,0 +1,6 @@
+//cypress installation steps
+npm init     ------initialize library and create package.json file
+npm install cypress@9.7    ---> install cypress 9.7
+npm install npx
+
+///npx cypress open   --> to open cypress

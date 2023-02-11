@@ -1,0 +1,2 @@
+npx cypress open   ===>open cypress test runner
+npx cypress run    ==> run test cases in command line  (cli)

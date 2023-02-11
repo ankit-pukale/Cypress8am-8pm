@@ -1,0 +1,15 @@
+{
+  "name": "cy8am",
+  "version": "1.0.0",
+  "description": "Cypress 8am-8pm Batch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit & Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "9.7",
+    "npx": "^10.2.2"
+  }
+}
